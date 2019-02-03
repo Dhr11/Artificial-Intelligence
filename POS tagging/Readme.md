@@ -1,4 +1,4 @@
-## Part 1: Part-of-speech tagging
+## Part-of-speech tagging
 
 Natural language processing (NLP) is an important research area in artificial intelligence, dating
 back to at least the 1950’s. One of the most basic problems in NLP is part-of-speech tagging, in
